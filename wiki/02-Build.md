@@ -13,7 +13,7 @@ ___
 
 ## 📑 WebBrowser
 
-Pour effectuer un build dans un navigateur web, installons la platform:
+Pour effectuer un build dans un navigateur web, installons la plateforme:
 
 ```bash
 npx cordova platform add browser
@@ -25,7 +25,7 @@ Pour lancer un build sur la platform:
 npx cordova run browser
 ```
 
-Alors quelle différence avec une éxécution sans la platform browser? La diférence est la prise en charge de cordova et ses plugins. Le document est également enrichi, il possède le type d'évènement [deviceready](https://cordova.apache.org/docs/fr/latest/cordova/events/events.deviceready.html) qui signal que le device émulé est prêt à utiliser cordova
+Alors quelle différence avec une exécution sans la plateforme browser? La différence est la prise en charge de cordova et ses plugins. Le document est également enrichi, il possède le type d'évènement [deviceready](https://cordova.apache.org/docs/fr/latest/cordova/events/events.deviceready.html) qui signal que le device émulé est prêt à utiliser cordova
 
 ```js
 document.addEventListener('deviceready', onDeviceReady, false);
@@ -47,7 +47,7 @@ ___
 
 ## 📑 Device
 
-Pour effectuer un build dans un navigateur web, installons la platform:
+Pour effectuer un build dans un navigateur web, installons la plateforme:
 
 ```bash
 npx cordova platform add android
@@ -78,9 +78,9 @@ Avec Java en prérequis de base, le plus simple pour installer le graddle et les
 
 Une fois installé, créez un projet vide et effectuez les updates.
 
-#### Licenses
+#### Licences
 
-Vous devez accepter les licenses des SDK Build Tools, pour se faire avec un terminal exécuter le sdkmanager.
+Vous devez accepter les licences des SDK Build Tools, pour se faire avec un terminal exécuter le sdkmanager.
 
 ```bash
 ANDROID_HOME/tools/bin/sdkmanager --licenses
@@ -90,7 +90,7 @@ Et répondez oui aux différentes questions.
 
 #### Graddle
 
-Si le graddle n'est pas trouvé lors du build, ajouter le en variables d'environnemet.
+Si le gradle n'est pas trouvé lors du build, ajouter le en variables d’environnement.
 
 #### Mode Développeur
 

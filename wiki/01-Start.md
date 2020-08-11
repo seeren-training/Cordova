@@ -52,11 +52,11 @@ Un projet a été généré, décrivons le.
 
 ### 🏷️ **[config.xml](https://cordova.apache.org/docs/fr/latest/config_ref/)**
 
-C'est dans ce fichier que les liens vers les icones et plashscreen se font (@see cordova res), que les préférences sont paramétrés tout comme les autorisations et les différents plugins. Le détail de chaque plateform est référencé dans ce fichier.
+C'est dans ce fichier que les liens vers les icônes et plashscreen se font (@see cordova res), que les préférences sont paramétrés tout comme les autorisations et les différents plugins. Le détail de chaque plateform est référencé dans ce fichier.
 
 ### 🏷️ **www**
 
-Seul les éléments présents dans ce dossier seront déployés sur device, les resources de développement doivent se trouver à l'éxtérieur. En cas d'utilisation de webpack vous devez faire correspondre les points d'entré et de sortie.
+Seul les éléments présents dans ce dossier seront déployés sur device, les ressources de développement doivent se trouver à l’extérieur. En cas d'utilisation de webpack vous devez faire correspondre les points d'entré et de sortie.
 
 ### 🏷️ **index.html**
 
