@@ -12,7 +12,7 @@ ___
 
 Apache Cordova ou plus anciennement Apache Callback ou PhoneGap, est un framework open-source développé par la Fondation Apache. Il permet de créer des applications pour différentes plateformes en HTML, CSS et JavaScript.
 
-![image](https://raw.githubusercontent.com/seeren-training/Cordova/master/wiki/resources/Cordova.png)
+![image](https://raw.githubusercontent.com/seeren-training/Cordova/master/wiki/resources/cordova.png)
 
 ___
 
