@@ -14,6 +14,6 @@ ___
 
 ## Support de cours
 
-* [Wiki](https://github.com/m2i-cyril/Cordova/wiki)
+* [Wiki](https://github.com/seeren-training/Cordova/wiki)
 
 ___

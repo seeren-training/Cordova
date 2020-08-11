@@ -12,9 +12,9 @@ ___
 
 ## Sommaire
 
-* [Start](https://github.com/m2i-cyril/Cordova/wiki/01)
-* [Build](https://github.com/m2i-cyril/Cordova/wiki/02)
-* [Release](https://github.com/m2i-cyril/Cordova/wiki/03)
+* [Start](https://github.com/seeren-training/Cordova/wiki/01)
+* [Build](https://github.com/seeren-training/Cordova/wiki/02)
+* [Release](https://github.com/seeren-training/Cordova/wiki/03)
 
 ___
 
