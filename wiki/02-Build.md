@@ -69,16 +69,16 @@ Il faut plusieurs choses:
 * Java 8
 * Graddle
 * SDK Build Tools
-* Accept licenses
+* Accepter les licenses
 * Activer le mode développeur
 
-#### Android Studio
+#### **Android Studio**
 
 Avec Java en prérequis de base, le plus simple pour installer le graddle et les SDK build tools d'installation [Android Studio](https://developer.android.com/studio/).
 
 Une fois installé, créez un projet vide et effectuez les updates.
 
-#### Licences
+#### **Licences**
 
 Vous devez accepter les licences des SDK Build Tools, pour se faire avec un terminal exécuter le sdkmanager.
 
@@ -88,11 +88,11 @@ ANDROID_HOME/tools/bin/sdkmanager --licenses
 
 Et répondez oui aux différentes questions.
 
-#### Graddle
+#### **Graddle**
 
 Si le gradle n'est pas trouvé lors du build, ajouter le en variables d’environnement.
 
-#### Mode Développeur
+#### **Mode Développeur**
 
 En fonction de votre téléphone, activez le mode développeur et autorisez le debugage USB.
 
@@ -104,3 +104,21 @@ Lancer votre application sur votre device.
 
 ___
 
+## 📑 Emulateur
+
+Pour ne pas avoir à occuper un device vous pouvez utiliser un émulateur.
+
+Avant de pouvoir utiliser un émulateur vous devez l'avoir configuré: https://cordova.apache.org/docs/fr/latest/guide/platforms/android/#configurer-un-%C3%A9mulateur
+
+Même si adb n'est pas présent en variable d'environnement vous evriez pouvoir lancer votre application sur votre virtual device.
+
+```bash
+cordova run android --emulator
+```
+___
+
+👨🏻‍💻 Manipulation
+
+Lancer votre application sur un émulateur.
+
+___
