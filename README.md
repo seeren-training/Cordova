@@ -4,11 +4,9 @@
 
 7 heures
 
-___
+## Public concerné
 
-## Prérequis
-
-Avoir participé au module JavaScript
+Développeurs ayant à réaliser des applications Web responsives.
 
 ___
 
