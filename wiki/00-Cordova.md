@@ -15,6 +15,7 @@ ___
 * [Start](https://github.com/seeren-training/Cordova/wiki/01)
 * [Build](https://github.com/seeren-training/Cordova/wiki/02)
 * [Release](https://github.com/seeren-training/Cordova/wiki/03)
+* [Store](https://github.com/seeren-training/Cordova/wiki/04)
 
 ___
 

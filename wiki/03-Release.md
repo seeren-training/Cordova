@@ -20,6 +20,8 @@ ___
 
 ## 📑 Keystore
 
+> La procédure de génération de key varient, je vous invite à vous référer à la recette de la plateforme visée.
+
 Générer un keystore avec `keytool`.
 
 ```bash
