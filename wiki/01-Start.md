@@ -52,20 +52,18 @@ Un projet a été généré, décrivons le.
 
 ### 🏷️ **[config.xml](https://cordova.apache.org/docs/fr/latest/config_ref/)**
 
-C'est dans ce fichier que les liens vers les icônes et plashscreen se font (@see cordova res), que les préférences sont paramétrés tout comme les autorisations et les différents plugins. Le détail de chaque plateform est référencé dans ce fichier.
+C'est dans ce fichier que les liens vers les `icônes` et `plashscreen` se font, que les préférences sont paramétrés tout comme les autorisations et les différents plugins. Le détail de chaque plateform est référencé dans ce fichier.
 
 ### 🏷️ **www**
 
-Seul les éléments présents dans ce dossier seront déployés sur device, les ressources de développement doivent se trouver à l’extérieur. En cas d'utilisation de webpack vous devez faire correspondre les points d'entré et de sortie.
+Seul les éléments présents dans ce dossier seront `déployés` sur `device`, les ressources de développement doivent se trouver à l’extérieur. En cas d'utilisation de webpack vous devez faire correspondre les points d'entré et de sortie.
 
 ### 🏷️ **index.html**
 
-Situé dans le dossier `www` il est le point d'entré d'affichage du programme dans la Web View. Vous remarquez un lien JavaScript vers un fichier cordova.js qui n'est pas présent: cela est normal et il est requis pour les fonctionnalités qui concernent le device.
+Situé dans le dossier `www` il est le point d'entré d'affichage du programme dans la Web View. Vous remarquez un lien JavaScript vers un fichier `cordova.js` qui n'est pas présent: cela est normal et il est requis pour les fonctionnalités qui concernent le device.
 
 ___
 
 👨🏻‍💻 Manipulation
 
 Créer un projet et adaptez votre stack technique ou installez cordova dans un projet existant que vous configurez en rapport à ces contraintes.
-
-___

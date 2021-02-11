@@ -1,8 +1,8 @@
-# Relase
+# Store
 
 *  🔖 **Google play**
 
-Possédant un système d'xploitation window dans 9/10 des cas, nous présentons le google play store.
+Possédant un système d'exploitation Windows dans 9/10 des cas, nous présentons le google play store.
 
 ___
 
@@ -10,9 +10,9 @@ ___
 
 L'inscription se fait sur la google console:
 
-* https://play.google.com/console
+[Google Play console](https://play.google.com/console)
 
-Les frais d'inscription sont de 25€ sans préremption pour publier un nombre illimité d'application.
+Les frais d'inscription sont de 25€ sans péremption pour publier un nombre illimité d'application.
 
 ___
 
@@ -20,13 +20,13 @@ ___
 
 Pour créer une application il faut renseigner:
 
-* Description.
+* Description
 
-![image](./resources/create.png)
+![image](https://raw.githubusercontent.com/seeren-training/Cordova/master/wiki/resources/create.png)
 
-* Fiche pour le store:
+* Fiche pour le store
 
-![image](./resources/fiche.png)
+![image](https://raw.githubusercontent.com/seeren-training/Cordova/master/wiki/resources/fiche.png)
 
 ___
 
@@ -34,14 +34,14 @@ ___
 
 Une fois l'application créée vous pouvez créer une version:
 
-![image](./resources/release.png)
+![image](https://raw.githubusercontent.com/seeren-training/Cordova/master/wiki/resources/release.png)
 
 Une fois la version créée vous pouvez y associer un apk ou aab:
 
-![image](./resources/upload.png)
+![image](https://raw.githubusercontent.com/seeren-training/Cordova/master/wiki/resources/upload.png)
 
 ___
 
 ## 📑 Patience
 
-Vous devez mainteant attendre que votre application soit vérifiée ce qui peut prendre de 3 à 15 jours.
+Vous devez maintenant attendre que votre application soit vérifiée ce qui peut prendre de 3 à 15 jours.

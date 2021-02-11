@@ -25,7 +25,7 @@ Pour lancer un build sur la platform:
 npx cordova run browser
 ```
 
-Alors quelle différence avec une exécution sans la plateforme browser? La différence est la prise en charge de cordova et ses plugins. Le document est également enrichi, il possède le type d'évènement [deviceready](https://cordova.apache.org/docs/fr/latest/cordova/events/events.deviceready.html) qui signal que le device émulé est prêt à utiliser cordova
+Alors quelle différence avec une exécution sans la plateforme browser? La différence est la prise en charge de cordova et ses plugins. Le document est également enrichi, il possède le type d'évènement `deviceready` qui signal que le device émulé est prêt à utiliser cordova
 
 ```js
 document.addEventListener('deviceready', onDeviceReady, false);
@@ -72,9 +72,13 @@ Il faut plusieurs choses:
 * Accepter les licenses
 * Activer le mode développeur
 
+[Pré-requis](https://ionicframework.com/docs/developing/android)
+
 #### **Android Studio**
 
-Avec Java en prérequis de base, le plus simple pour installer le graddle et les SDK build tools d'installation [Android Studio](https://developer.android.com/studio/).
+Avec Java en prérequis de base, le plus simple pour installer le graddle et les SDK build tools d'installation Android Studio.
+
+[Android Studio](https://developer.android.com/studio/)
 
 Une fois installé, créez un projet vide et effectuez les updates.
 
@@ -108,9 +112,11 @@ ___
 
 Pour ne pas avoir à occuper un device vous pouvez utiliser un émulateur.
 
-Avant de pouvoir utiliser un émulateur vous devez l'avoir configuré: https://cordova.apache.org/docs/fr/latest/guide/platforms/android/#configurer-un-%C3%A9mulateur
+Avant de pouvoir utiliser un émulateur vous devez l'avoir configuré.
 
-Même si adb n'est pas présent en variable d'environnement vous evriez pouvoir lancer votre application sur votre virtual device.
+[Configurer un émulateur](https://cordova.apache.org/docs/fr/latest/guide/platforms/android/#configurer-un-%C3%A9mulateur)
+
+Même si `adb` n'est pas présent en variable d'environnement vous devriez pouvoir lancer votre application sur votre virtual device.
 
 ```bash
 cordova run android --emulator
@@ -120,5 +126,3 @@ ___
 👨🏻‍💻 Manipulation
 
 Lancer votre application sur un émulateur.
-
-___
