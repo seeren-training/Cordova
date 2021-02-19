@@ -1,4 +1,4 @@
-# Cordova
+# Cordova - Développement d'applications multiplateformes
 
 ## Durée
 
